@@ -3,9 +3,7 @@
 ![Dashboard Preview](image.png)
 
 ## 🚀 Overview
-This project analyzes Instagram performance for a fashion brand to identify engagement patterns and provide actionable strategies for growth.
-
-It demonstrates my ability to translate raw social media data into insights that can improve content performance, audience engagement, and overall brand visibility.
+This project analyzes Instagram performance for a fashion brand to identify engagement gaps and provide actionable strategies to improve content performance, consistency, and audience growth.
 
 ---
 
@@ -22,13 +20,16 @@ To evaluate current Instagram performance and recommend data-driven strategies t
 
 ---
 
-## 📈 Recommendations (Actionable)
+## 📈 Recommendations (Actionable) 
 - Increase focus on short-form video (Reels) to maximize reach and engagement  
 - Maintain a consistent posting schedule during peak engagement hours  
 - Improve captions with clear calls-to-action to drive interaction  
 - Test content formats such as try-ons, styling videos, and behind-the-scenes content  
 
----
+## 📊 Expected Impact
+- Improved engagement consistency across posts  
+- Increased reach through optimized content formats  
+- Higher interaction rates from better posting timing and captions 
 
 ## 🧠 What This Demonstrates
 This project highlights my ability to:
@@ -41,9 +42,8 @@ This project highlights my ability to:
 ---
 
 ## 🛠 Tools Used
-- Microsoft Excel (data analysis & visualization)  
-- Canva (report design & presentation)  
-
+- Microsoft Excel – data cleaning, analysis, and visualization  
+- Canva – dashboard design and presentation of insights  
 ---
 
 ## 📂 Deliverables
@@ -57,7 +57,10 @@ This type of analysis can help businesses:
 - Understand what content performs best  
 - Improve engagement rates  
 - Make better content decisions  
-- Build a more consistent and effective social media strategy  
+- Build a more consistent and effective social media strategy
+
+- ## 💼 What This Demonstrates
+Ability to analyze social media performance data and translate insights into actionable strategies that drive engagement and content growth.
 
 ---
 
