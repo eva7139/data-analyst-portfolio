@@ -1,5 +1,7 @@
 # Instagram Performance Analysis – Forme Bodysuits
 
+![Dashboard Preview](image.png)
+
 ## 🚀 Overview
 This project analyzes Instagram performance for a fashion brand to identify engagement patterns and provide actionable strategies for growth.
 
